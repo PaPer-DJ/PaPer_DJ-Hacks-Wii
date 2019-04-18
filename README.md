@@ -13,9 +13,10 @@ INFO - TUTORIALES:
 
 -------------------------------------------------------------------------------------
 
-RECURSOS - DOWNLOADS
+RECURSOS - DOWNLOADS - VIDEOTUTORIALES
 
-* 
+* https://youtu.be/XXXH21B4WdE
+* https://youtu.be/yzIbRpAjni8
 
 -------------------------------------------------------------------------------------
   * Cómo piratear la Wii sin chip
