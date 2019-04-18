@@ -48,8 +48,11 @@ RECURSOS - DOWNLOADS - VIDEOTUTORIALES
  
 * ➡️ LINKS CON INFORMACIÓN SOBRE TODOS LOS PASOS:
  Wilbrand launcher: http://bit.ly/2RVUzoT
+
  PriiLoader: http://bit.ly/2RApW9e
+
  D2x cios installer: http://bit.ly/2Rxwkhr
+
  App para chequear CIOS: http://bit.ly/2FBGffg﻿
 -------------------------------------------------------------------------------------
 
