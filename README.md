@@ -25,6 +25,8 @@ Con este método, podremos hacer cualquier cosa en nuestra consola sin necesidad
 Requisitos:
 
   > Tu Wii.
+  
   > Una tarjeta SD (se recomienda que sea igual o inferior a 2 GB). No recomendamos las tarjetas SDHC, ya que muchas veces dan problemas con los procesos de modificación.
+  
   > Válido para todas las versiones de firmware, incluida la versión 4.3. Además es válida para todas las regiones.
 -------------------------------------------------------------------------------------
