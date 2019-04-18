@@ -244,7 +244,8 @@ Al final del vídeo tenéis el proceso de copia de la NAND.
 
 
 
-Paso 3: Instalación del cIOS.
+ * Paso 3: Instalación del cIOS.
+
 Como vimos el cIOS es un IOS modificado el cual nos va a permitir el uso de determinadas aplicaciones a través del canal Homebrew Channel como son los loader para la carga de las copias de seguridad ó backups de nuestros juegos Wii. ¿Por qué decimos que es un IOS modificado? Porque usamos los IOS oficiales de nuestra Wii instalados por Nintendo para instalar nuestros propios cIOS y de ahí su nombre "Custom IOS = cIOS". Imaginar que los IOS oficiales permiten cargar los juegos originales, bueno, no lo imagineis, creerlo, porque es así... pero estos IOS no vienen preparados como es lógico para cargar los backups, ok, pues lo que han hecho gente como Waninkoko y Hermes, es crear su propio IOS, modificado, y de ahí cIOS (custom cIOS), para una vez instalado en nuestra memoria de la Wii, en huecos o slots que nuestra Wii no usa, poder usar estos cIOS para cargar los backups entre otras funciones.
 
 Importante, y para que no os lieis, los cIOS se instalan usando un IOS de la Wii como base. De ahí, que vereís mucho esto, por ejemplo, cIOS249 IOS38 base o por ejemplo, cIOS224 IOS57 base. Vale. ¿Esto qué quiere decir? Fácil. El 249 o 224, es el hueco o slot de la memoria Wii donde se instala el cIOS. ¿OK?. Y el IOS38 base o el IOS57 base, son el IOS base de la Wii con el que se instala el cIOS. Dicho de otro modo, el cIOS, cuando se instala, usa un IOS de la Wii para instalarse. Lo usa. Sólamente esto. No es que se instale en el hueco del IOS38 ni nada de eso. Lo usa. Nada más. ¿Y para qué sirve esto? os estareis preguntando... Bien. Al tener varios cIOS instalados con distintos IOS base obtenemos una mayor compatibilidad a la hora de cargar los backups. Si un juego, como por ejemplo el Call Of Duty Blacks Ops, funciona con un cIOS instalado con el IOS57 base, pues ya sabemos que cuando lo vayamos a cargar, necesitamos usar un cIOS que tenga ese IOS base. ¿Qué como lo sabemos?, con una herramienta que tenemos más abajo, SYSCHECK, con la que podeis saber que cIOS y con que IOS base, has instalado en tu Wii.
@@ -277,8 +278,8 @@ Un poco de historia...
 
 ... a continuación os muestro los 3 métodos directos de instalación de los cIOS, totalmente probados y testados (como podéis ver en los video tutoriales). Están en orden de preferencia.
 
-Método Directo 1:
-Instalación de los cIOS 249, 250, 245, 246, 247 y 248 (D2X v8 Final) + cIOS 222, 223, 224 y 202  de Hermes v5.1 Mod Spaceman Spiff.
+* Método Directo 1:
+ > Instalación de los cIOS 249, 250, 245, 246, 247 y 248 (D2X v8 Final) + cIOS 222, 223, 224 y 202  de Hermes v5.1 Mod Spaceman Spiff.
 
 En este caso usaremos los propios instaladores de los programas que junto al HBC 1.0.7 o superior nos permiten instalar los cIOS directamente gracias al uso del modo AHBPROT.
 
