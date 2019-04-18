@@ -25,9 +25,7 @@ Con este método, podremos hacer cualquier cosa en nuestra consola sin necesidad
 Requisitos:
 
   > Tu Wii.
-  
   > Una tarjeta SD (se recomienda que sea igual o inferior a 2 GB). No recomendamos las tarjetas SDHC, ya que muchas veces dan problemas con los procesos de modificación.
-  
   > Válido para todas las versiones de firmware, incluida la versión 4.3. Además es válida para todas las regiones.
 -------------------------------------------------------------------------------------
   * Precauciones para evitar un brick:
@@ -43,3 +41,5 @@ No hacer un downgrade, ya que no es necesario.
 No instalar IOS o System Menus (Menús de Sistema) si no se entiende lo que se está haciendo.
 No parchear ningún IOS del sistema, es decir, ningún IOS inferior a 200.
 Como regla general: si no entiendes lo que estás haciendo, mejor no lo hagas.
+
+
