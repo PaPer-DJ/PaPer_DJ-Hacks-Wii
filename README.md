@@ -18,6 +18,8 @@ RECURSOS - DOWNLOADS - VIDEOTUTORIALES
 * ➡️ TUTORIALES PARA MODIFICAR WII BY TUBERVIEJUNER: http://bit.ly/wiiviejuner
 
 * ➡️ CARGA TUS JUEGOS DE WII Y GAMECUBE POR USB: https://youtu.be/yzIbRpAjni8
+
+* ➡️ DESCARGA SD FORMATTER: https://www.sdcard.org/downloads/formatter_4/eula_windows/index.html
 -------------------------------------------------------------------------------------
   * Cómo piratear la Wii sin chip
 
