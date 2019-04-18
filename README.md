@@ -26,16 +26,16 @@ RECURSOS - DOWNLOADS - VIDEOTUTORIALES
 * ➡️ Listado de CIOS: 
 * ➡️ D2x custom cios installer:
  > Base: 56     Slot: 245   Cios Revision: 65535 
- Base: 37     Slot: 246   Cios Revision: 65535
- Base: 57     Slot: 247   Cios Revision: 65535
- Base: 55     Slot: 248   Cios Revision: 65535
- Base: 38     Slot: 249   Cios Revision: 65535
- Base: 58     Slot: 250   Cios Revision: 65535
+ > Base: 37     Slot: 246   Cios Revision: 65535
+ > Base: 57     Slot: 247   Cios Revision: 65535
+ > Base: 55     Slot: 248   Cios Revision: 65535
+ > Base: 38     Slot: 249   Cios Revision: 65535
+ > Base: 58     Slot: 250   Cios Revision: 65535
 * ➡️ CIOS INSTALER 222:
- Install Custom IOS    202     v65535  (Homebrew)       IOS 60   
- Install Custom IOS    222     v65535  (Default)        IOS 38
- Install Custom IOS    223     v65535                   IOS 37
- Install Custom IOS    224     v65535                   IOS 57
+ > Install Custom IOS    202     v65535  (Homebrew)       IOS 60   
+ > Install Custom IOS    222     v65535  (Default)        IOS 38
+ > Install Custom IOS    223     v65535                   IOS 37
+ > Install Custom IOS    224     v65535                   IOS 57
 * ➡️ LINKS CON INFORMACIÓN SOBRE TODOS LOS PASOS:
  Wilbrand launcher: http://bit.ly/2RVUzoT
  PriiLoader: http://bit.ly/2RApW9e
