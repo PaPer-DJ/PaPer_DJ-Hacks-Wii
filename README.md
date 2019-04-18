@@ -46,7 +46,7 @@ RECURSOS - DOWNLOADS - VIDEOTUTORIALES
 GUIA RÁPIDA - PASOS PARA HACKEAR LA Wii
 
  * 1 - Usar Wilbrand Launcher para poner introducir el exploit sin necesidad de internet (OFFLINE)
- * 2 - Instalar el Homebrew Channel gracias al anterior exploit.
+ * 2 - Instalar el Homebrew Channel gracias al anterior exploit. (BootMii)
  * 3 - Instalar el PriiLoader (Opcional) para poder restaurar la consola en caso de Brick, y acceder a funciones extra.
  * 4 - Instalar los cIOS custom en la consola (D2x cIOS installer) para poder cargar las copias de juegos en la consola.
  * 5 - 
