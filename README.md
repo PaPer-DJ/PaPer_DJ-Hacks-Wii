@@ -25,7 +25,7 @@ RECURSOS - DOWNLOADS - VIDEOTUTORIALES
 
 * ➡️ Listado de CIOS: 
 * ➡️ D2x custom cios installer:
- Base: 56     Slot: 245   Cios Revision: 65535 
+ > Base: 56     Slot: 245   Cios Revision: 65535 
  Base: 37     Slot: 246   Cios Revision: 65535
  Base: 57     Slot: 247   Cios Revision: 65535
  Base: 55     Slot: 248   Cios Revision: 65535
