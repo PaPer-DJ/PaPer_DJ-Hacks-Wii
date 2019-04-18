@@ -47,7 +47,8 @@ RECURSOS - DOWNLOADS - VIDEOTUTORIALES
  > Install Custom IOS    224     v65535                   IOS 57
  
 * ➡️ LINKS CON INFORMACIÓN SOBRE TODOS LOS PASOS:
- Wilbrand launcher: http://bit.ly/2RVUzoT
+
+Wilbrand launcher: http://bit.ly/2RVUzoT
 
  PriiLoader: http://bit.ly/2RApW9e
 
