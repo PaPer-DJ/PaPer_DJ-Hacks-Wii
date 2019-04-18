@@ -15,9 +15,9 @@ INFO - TUTORIALES:
 
 RECURSOS - DOWNLOADS - VIDEOTUTORIALES
 
-* https://youtu.be/XXXH21B4WdE
-* https://youtu.be/yzIbRpAjni8
+* ➡️ TUTORIALES PARA MODIFICAR WII BY TUBERVIEJUNER: http://bit.ly/wiiviejuner
 
+* ➡️ CARGA TUS JUEGOS DE WII Y GAMECUBE POR USB: https://youtu.be/yzIbRpAjni8
 -------------------------------------------------------------------------------------
   * Cómo piratear la Wii sin chip
 
